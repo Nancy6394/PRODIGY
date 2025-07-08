@@ -32,7 +32,7 @@ This repository contains all the tasks I've completed during the internship, foc
 
 A responsive landing page built using HTML and CSS, focused on layout, sectioning, and visual creativity.  
 *Skills Used:* HTML, CSS  
-🔗 [Live Demo](#) | 📂 [Source Code](#https://github.com/Nancy6394/PRODIGY/tree/0cd66f553560ee28606228871031d19dc9991911/Task%201%20Landing%20Page)
+🔗 [Live Demo](#) | 📂 [Source Code](https://github.com/Nancy6394/PRODIGY/tree/0cd66f553560ee28606228871031d19dc9991911/Task%201%20Landing%20Page)
 
 ---
 
