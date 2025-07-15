@@ -40,7 +40,7 @@ A responsive landing page built using HTML and CSS, focused on layout, sectionin
 
 A fully functional stopwatch application that includes start, stop, reset, and lap functionality using JavaScript.  
 **Skills Used:** HTML, CSS, JavaScript  
-🔗 [Live Demo](#) | [Source Code](https://github.com/Nancy6394/PRODIGY/tree/0cd66f553560ee28606228871031d19dc9991911/Task%201%20Landing%20Page)
+🔗 [Live Demo](#) | [Source Code](Task 2 Stopwatch/index (1).html)
 
 ---
 
