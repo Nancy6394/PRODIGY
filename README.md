@@ -48,7 +48,7 @@ A fully functional stopwatch application that includes start, stop, reset, and l
 
 An interactive Tic Tac Toe game with basic AI or multiplayer mode, built using JavaScript and styled with CSS.  
 **Skills Used:** HTML, CSS, JavaScript  
-🔗 [Live Demo](#) | [Source Code](https://github.com/Nancy6394/PRODIGY/tree/0cd66f553560ee28606228871031d19dc9991911/Task%201%20Landing%20Page)
+🔗 [Live Demo](#) | [Source Code](https://github.com/Nancy6394/PRODIGY/tree/d4c965a87ac230f141070be831cfd3376e14bb16/Task%203%20Tic-Tac-Teo)
 
 ---
 
