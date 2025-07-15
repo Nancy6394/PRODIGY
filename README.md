@@ -64,7 +64,7 @@ A personal portfolio built using React + TypeScript, styled with CSS, and struct
 
 A responsive weather application that fetches real-time weather data using APIs and displays temperature, condition, and icons.  
 **Skills Used:** HTML, CSS, JavaScript, API Integration  
-🔗 [Live Demo](#) | [Source Code](https://github.com/Nancy6394/PRODIGY/tree/0cd66f553560ee28606228871031d19dc9991911/Task%201%20Landing%20Page)
+🔗 [Live Demo](#) | [Source Code](https://github.com/Nancy6394/PRODIGY/tree/5efef813adc11293afc645eaaf76ec0ac668ec7d/Task%205%20Weather%20App)
 
 
 
