@@ -56,7 +56,7 @@ An interactive Tic Tac Toe game with basic AI or multiplayer mode, built using J
 
 A personal portfolio built using React + TypeScript, styled with CSS, and structured using standard HTML elements inside `.tsx` components.  
 **Tech Stack:** React, TypeScript, CSS, HTML  
-🔗 [Live Demo](#) | [Source Code](https://github.com/Nancy6394/PRODIGY/tree/0cd66f553560ee28606228871031d19dc9991911/Task%201%20Landing%20Page)
+🔗 [Live Demo](#) | [Source Code](https://github.com/Nancy6394/PRODIGY/tree/e0b368386bea26c1e56a6b6ebdf5b44fccc2f039/Task%204%20Personal%20portfolio%20website)
 
 ---
 
